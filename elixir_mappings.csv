@@ -1,13 +1,13 @@
 name,abbreviation,fairsharing,bio.tools,tess,wikidata
 BioPAN,,,,,
-BridgeDb,,https://doi.org/10.25504/FAIRsharing.5ry74y,https://bio.tools/bridgedb,https://tess.elixir-europe.org/search?q=bridgedb,
+BridgeDb,,https://doi.org/10.25504/FAIRsharing.5ry74y,https://bio.tools/bridgedb,https://tess.elixir-europe.org/search?q=bridgedb,Q55582517
 Goslin,,,,,
 LION/web,,,,,
 LIPID MAPS Statistical Analysis Tools,,,,,
 LIPID MAPS® Computationally-generated Bulk Lipids,COMP_DB,,,,
 LIPID MAPS® In-Silico Structure Database,LMISSD,,,,
 LIPID MAPS® Lipidomic Ion Mobility Database,,,,,
-LIPID MAPS® Structure Database,LMSD,https://doi.org/10.25504/FAIRsharing.cpneh8,https://bio.tools/lipid_maps,,
+LIPID MAPS® Structure Database,LMSD,https://doi.org/10.25504/FAIRsharing.cpneh8,https://bio.tools/lipid_maps,,Q20968889
 LPPtiger,,,,,
 Lipid Data Analyzer,LDA,,,,
 Lipid Mini-On,,,,,
@@ -18,12 +18,12 @@ LipidLynxX,,,https://bio.tools/lipidlynxx,,
 LipidXplorer,,,,,
 Lipostar 2.0,,,,,
 METLIN-MRM/XCMS-MRM,,,,,
-MS-DIAL,,,,,
-MZmine,,,,,
-MetaboAnalyst 5.0,,,,,
-MetaboLights,,https://doi.org/10.25504/FAIRsharing.kkdpxe,https://bio.tools/metabolights,https://tess.elixir-europe.org/search?q=MetaboLights,
-Metabolomics Workbench,,,,,
+MS-DIAL,,,,,Q115662328
+MZmine,,,,,Q112189098
+MetaboAnalyst,,,,,Q17103791
+MetaboLights,,https://doi.org/10.25504/FAIRsharing.kkdpxe,https://bio.tools/metabolights,https://tess.elixir-europe.org/search?q=MetaboLights,Q24174701
+Metabolomics Workbench,,,,,Q24698640
 RefMet,,,,,
-SwissLipids Knowledgebase,,https://doi.org/10.25504/FAIRsharing.pxr7x2,https://bio.tools/swisslipids,,
-WikiPathways (Lipid portal),,https://doi.org/10.25504/FAIRsharing.g7b4rj,https://bio.tools/wikipathways,https://tess.elixir-europe.org/search?q=wikipathways,
-XCMS Online,,,https://bio.tools/xcms_online,,
+SwissLipids Knowledgebase,,https://doi.org/10.25504/FAIRsharing.pxr7x2,https://bio.tools/swisslipids,,Q41165322
+WikiPathways (Lipid portal),,https://doi.org/10.25504/FAIRsharing.g7b4rj,https://bio.tools/wikipathways,https://tess.elixir-europe.org/search?q=wikipathways,Q7999828
+XCMS Online,,,https://bio.tools/xcms_online,,Q65051863
