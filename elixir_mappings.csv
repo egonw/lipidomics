@@ -1,6 +1,6 @@
 name,abbreviation,fairsharing,bio.tools,tess
 BioPAN,,,,
-BridgeDb,,,,
+BridgeDb,,https://doi.org/10.25504/FAIRsharing.5ry74y,https://bio.tools/bridgedb,https://tess.elixir-europe.org/search?q=bridgedb
 Goslin,,,,
 LION/web,,,,
 LIPID MAPS Statistical Analysis Tools,,,,
@@ -25,5 +25,5 @@ MetaboLights,,,,
 Metabolomics Workbench,,,,
 RefMet,,,,
 SwissLipids Knowledgebase,,,,
-WikiPathways (Lipid portal),,,,
+WikiPathways (Lipid portal),,https://doi.org/10.25504/FAIRsharing.g7b4rj,https://bio.tools/wikipathways,https://tess.elixir-europe.org/search?q=wikipathways
 XCMS Online,,,,
