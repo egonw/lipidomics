@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: article
+authors:
+  - family-names: Ni
+    given-names: Zhixu
+  - family-names: Wölk
+    given-names: Michele
+  - family-names: Jukes
+    given-names: Geoff
+  - family-names: Espinosa
+    given-names: Karla Mendivelso
+  - family-names: Ahrends
+    given-names: Robert
+  - family-names: Aimo
+    given-names: Lucila
+  - family-names: Alvarez-Jarreta
+    given-names: Jorge
+  - family-names: Andrews
+    given-names: Simon
+  - family-names: Andrews
+    given-names: Robert
+  - family-names: Bridge
+    given-names: Alan
+  - family-names: Clair
+    given-names: Geremy C.
+  - family-names: Conroy
+    given-names: Matthew J.
+  - family-names: Fahy
+    given-names: Eoin
+  - family-names: Gaud
+    given-names: Caroline
+  - family-names: Goracci
+    given-names: Laura
+  - family-names: Hartler
+    given-names: Jürgen
+  - family-names: Hoffmann
+    given-names: Nils
+  - family-names: Kopczyinki
+    given-names: Dominik
+  - family-names: Korf
+    given-names: Ansgar
+  - family-names: Lopez-Clavijo
+    given-names: Andrea F.
+  - family-names: Malik
+    given-names: Adnan
+  - family-names: Ackerman
+    given-names: Jacobo Miranda
+  - family-names: Molenaar
+    given-names: Martijn R.
+  - family-names: O’Donovan
+    given-names: Claire
+  - family-names: Pluskal
+    given-names: Tomáš
+  - family-names: Shevchenko
+    given-names: Andrej
+  - family-names: Slenter
+    given-names: Denise
+  - family-names: Siuzdak
+    given-names: Gary
+  - family-names: Kutmon
+    given-names: Martina
+  - family-names: Tsugawa
+    given-names: Hiroshi
+  - family-names: Willighagen
+    given-names: Egon L.
+  - family-names: Xia
+    given-names: Jianguo
+  - family-names: O’Donnell
+    given-names: Valerie B.
+  - family-names: Fedorova
+    given-names: Maria
+doi: 10.1038/S41592-022-01710-0
+identifiers:
+  - type: doi
+    value: 10.1038/S41592-022-01710-0
+  - type: other
+    value: urn:issn:1548-7091
+keywords:
+  - lipidomics
+  - software
+  - database
+title: >-
+  Guiding the choice of informatics software and tools for lipidomics research
+  applications
